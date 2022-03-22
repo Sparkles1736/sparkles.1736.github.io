@@ -1,1 +1,1 @@
-This is where all the website will live.
+This is where all of the website will live.
