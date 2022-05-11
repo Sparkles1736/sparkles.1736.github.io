@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LizardCraft Wiki</title>
+    <link>https://sparkles1736.github.io/</link>
+    <description>Recent content on LizardCraft Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2022 22:46:29 -0500</lastBuildDate><atom:link href="https://sparkles1736.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://sparkles1736.github.io/posts/first-post/</link>
+      <pubDate>Mon, 07 Mar 2022 22:46:29 -0500</pubDate>
+      
+      <guid>https://sparkles1736.github.io/posts/first-post/</guid>
+      <description>This is a test run to see if the Hugo static website is connected properly to GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

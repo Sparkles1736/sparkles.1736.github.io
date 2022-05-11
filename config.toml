@@ -1,0 +1,4 @@
+baseURL = 'https://sparkles1736.github.io'
+languageCode = 'en-us'
+title = 'LizardCraft Wiki'
+theme = "ananke" 
