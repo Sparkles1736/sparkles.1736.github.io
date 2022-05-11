@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LizardCraft Wiki</title>
-    <link>https://github.com/Sparkles1736/sparkles1736.github.io/</link>
+    <link>https://github.comhttp://sparkles1736.github.io/</link>
     <description>Recent content on LizardCraft Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 23:18:22 -0400</lastBuildDate><atom:link href="https://github.com/Sparkles1736/sparkles1736.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 23:18:22 -0400</lastBuildDate><atom:link href="https://github.comhttp://sparkles1736.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post1</title>
-      <link>https://github.com/Sparkles1736/sparkles1736.github.io/posts/post1/</link>
+      <link>https://github.comhttp://sparkles1736.github.io/posts/post1/</link>
       <pubDate>Mon, 21 Mar 2022 23:18:22 -0400</pubDate>
       
-      <guid>https://github.com/Sparkles1736/sparkles1736.github.io/posts/post1/</guid>
-      <description>Welcome to the LizardCraft Wiki! While we already have one for the server set up by the lovely thetrueprime [link here](https://lizardcraft.fandom.com/wiki/LizardCraft_Wiki) I `Sparkles1736` wanted to create another one for my freedom project for AP Computer Science A with the static website generator Hugo. </description>
+      <guid>https://github.comhttp://sparkles1736.github.io/posts/post1/</guid>
+      <description>Welcome to the LizardCraft Wiki! While we already have one for the server set up by the lovely thetrueprime [link here](https://lizardcraft.fandom.com/wiki/LizardCraft_Wiki) I `Sparkles1736` wanted to create another one for my freedom project for AP Computer Science A with the static website generator Hugo.
+ </description>
     </item>
     
   </channel>
